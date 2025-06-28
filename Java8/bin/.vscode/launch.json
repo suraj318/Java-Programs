@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CollectionQuestions1",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.CollectionFramework.CollectionQuestions1",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP11",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP11",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP10",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP10",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FP01",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP01",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP02",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP02",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP03",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP03",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP04",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP04",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP05",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP05",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP06",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP06",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP07",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP07",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP08",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP08",
+            "projectName": "src_dc1d9ccb"
+        },
+        {
+            "type": "java",
+            "name": "FP09",
+            "request": "launch",
+            "mainClass": "Java8/JavaFunctionalProgram.FP09",
+            "projectName": "src_dc1d9ccb"
+        }
+    ]
+}
